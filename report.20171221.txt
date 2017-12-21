@@ -1,0 +1,347 @@
+# Validating SDG 1
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-1' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 1977 is duplicated to row(s) 1959
+					Row 1982 is duplicated to row(s) 1956
+					Row 1985 is duplicated to row(s) 1980
+					Row 1990 is duplicated to row(s) 1975
+					Row 1998 is duplicated to row(s) 1964
+					Row 2000 is duplicated to row(s) 1989
+					Row 2001 is duplicated to row(s) 1972
+					Row 2003 is duplicated to row(s) 1999
+					Row 2004 is duplicated to row(s) 1994
+					Row 2005 is duplicated to row(s) 2002
+					Row 2008 is duplicated to row(s) 1968
+					Row 2012 is duplicated to row(s) 1960
+					Row 2014 is duplicated to row(s) 1966
+					Row 2018 is duplicated to row(s) 1981
+					Row 2023 is duplicated to row(s) 1973
+					Row 2025 is duplicated to row(s) 2010
+					Row 2028 is duplicated to row(s) 1992
+					Row 2029 is duplicated to row(s) 1996
+					Row 2032 is duplicated to row(s) 1969
+					Row 2033 is duplicated to row(s) 1965
+					Row 2055 is duplicated to row(s) 2054
+# Validating SDG 2
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-2' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data valid
+# Validating SDG 3
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-3' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 1031 has a missing value in column 15
+					Row 1032 has a missing value in column 15
+					Row 1046 has a missing value in column 15
+					Row 1060 has a missing value in column 15
+					Row 1061 has a missing value in column 15
+					Row 1062 has a missing value in column 15
+					Row 1108 has a missing value in column 15
+					Row 1111 has a missing value in column 15
+					Row 1112 has a missing value in column 15
+					Row 1113 has a missing value in column 15
+					Row 1114 has a missing value in column 15
+					Row 1115 has a missing value in column 15
+					Row 1116 has a missing value in column 15
+					Row 1118 has a missing value in column 15
+					Row 1122 has a missing value in column 15
+					Row 1123 has a missing value in column 15
+					Row 1124 has a missing value in column 15
+					Row 1132 has a missing value in column 15
+					Row 1133 has a missing value in column 15
+					Row 1134 has a missing value in column 15
+					Row 1135 has a missing value in column 15
+# Validating SDG 4
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-4' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data valid
+# Validating SDG 5
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-5' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data valid
+# Validating SDG 6
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-6' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data valid
+# Validating SDG 7
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-7' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 6097 has a missing value in column 15
+					Row 6309 has a missing value in column 15
+					Row 6425 has a missing value in column 15
+					Row 6714 has a missing value in column 15
+					Row 8062 has a missing value in column 15
+					Row 9177 has a missing value in column 15
+					Row 9252 has a missing value in column 15
+# Validating SDG 8
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-8' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 589 is duplicated to row(s) 495
+					Row 590 is duplicated to row(s) 499
+					Row 591 is duplicated to row(s) 493
+					Row 592 is duplicated to row(s) 496
+					Row 593 is duplicated to row(s) 497
+					Row 594 is duplicated to row(s) 498
+					Row 596 is duplicated to row(s) 494
+					Row 635 is duplicated to row(s) 509
+					Row 684 is duplicated to row(s) 524
+					Row 685 is duplicated to row(s) 517
+					Row 724 is duplicated to row(s) 583
+					Row 736 is duplicated to row(s) 677
+					Row 737 is duplicated to row(s) 633
+					Row 738 is duplicated to row(s) 634
+					Row 853 is duplicated to row(s) 619
+					Row 854 is duplicated to row(s) 620
+					Row 874 is duplicated to row(s) 346
+					Row 880 is duplicated to row(s) 339
+					Row 883 is duplicated to row(s) 332
+					Row 884 is duplicated to row(s) 342
+					Row 885 is duplicated to row(s) 341
+# Validating SDG 9
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-9' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 7701 has a missing value in column 15
+					Row 7713 has a missing value in column 15
+					Row 7720 has a missing value in column 15
+					Row 7722 has a missing value in column 15
+					Row 7734 has a missing value in column 15
+					Row 7743 has a missing value in column 15
+					Row 7749 has a missing value in column 15
+					Row 7750 has a missing value in column 15
+					Row 7758 has a missing value in column 15
+					Row 7787 has a missing value in column 15
+					Row 7793 has a missing value in column 15
+					Row 7794 has a missing value in column 15
+					Row 7795 has a missing value in column 15
+					Row 7796 has a missing value in column 15
+					Row 7797 has a missing value in column 15
+					Row 7806 has a missing value in column 15
+					Row 7818 has a missing value in column 15
+					Row 7819 has a missing value in column 15
+					Row 7821 has a missing value in column 15
+					Row 7827 has a missing value in column 15
+					Row 7831 has a missing value in column 15
+# Validating SDG 10
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-10' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 692 is duplicated to row(s) 686
+					Row 724 is duplicated to row(s) 698
+					Row 742 is duplicated to row(s) 722
+					Row 743 is duplicated to row(s) 723
+					Row 756 is duplicated to row(s) 701
+					Row 758 is duplicated to row(s) 738
+					Row 764 is duplicated to row(s) 741
+					Row 766 is duplicated to row(s) 689
+					Row 775 is duplicated to row(s) 679
+					Row 778 is duplicated to row(s) 703
+					Row 779 is duplicated to row(s) 752
+					Row 791 is duplicated to row(s) 733
+					Row 792 is duplicated to row(s) 772
+					Row 795 is duplicated to row(s) 655
+					Row 803 is duplicated to row(s) 673
+					Row 806 is duplicated to row(s) 773
+					Row 807 is duplicated to row(s) 801
+					Row 808 is duplicated to row(s) 800
+					Row 810 is duplicated to row(s) 735
+					Row 813 is duplicated to row(s) 680
+					Row 814 is duplicated to row(s) 681
+# Validating SDG 11
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-11' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 327 has a missing value in column 15
+					Row 461 has a missing value in column 15
+					Row 497 has a missing value in column 15
+					Row 498 has a missing value in column 15
+					Row 499 has a missing value in column 15
+					Row 503 has a missing value in column 15
+					Row 505 has a missing value in column 15
+					Row 506 has a missing value in column 15
+					Row 510 has a missing value in column 15
+					Row 511 has a missing value in column 15
+					Row 515 has a missing value in column 15
+					Row 617 has a missing value in column 15
+					Row 692 has a missing value in column 15
+					Row 759 has a missing value in column 15
+					Row 772 has a missing value in column 15
+					Row 781 has a missing value in column 15
+					Row 811 has a missing value in column 15
+					Row 826 has a missing value in column 15
+					Row 875 has a missing value in column 15
+					Row 876 has a missing value in column 15
+					Row 877 has a missing value in column 15
+# Validating SDG 12
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-12' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 312 is duplicated to row(s) 218
+					Row 313 is duplicated to row(s) 222
+					Row 314 is duplicated to row(s) 216
+					Row 315 is duplicated to row(s) 219
+					Row 316 is duplicated to row(s) 220
+					Row 317 is duplicated to row(s) 221
+					Row 319 is duplicated to row(s) 217
+					Row 358 is duplicated to row(s) 232
+					Row 407 is duplicated to row(s) 247
+					Row 408 is duplicated to row(s) 240
+					Row 447 is duplicated to row(s) 306
+					Row 459 is duplicated to row(s) 400
+					Row 460 is duplicated to row(s) 356
+					Row 461 is duplicated to row(s) 357
+					Row 576 is duplicated to row(s) 342
+					Row 577 is duplicated to row(s) 343
+					Row 597 is duplicated to row(s) 69
+					Row 603 is duplicated to row(s) 62
+					Row 606 is duplicated to row(s) 55
+					Row 607 is duplicated to row(s) 65
+					Row 608 is duplicated to row(s) 64
+# Validating SDG 13
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-13' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 25 is duplicated to row(s) 7
+					Row 30 is duplicated to row(s) 4
+					Row 33 is duplicated to row(s) 28
+					Row 38 is duplicated to row(s) 23
+					Row 46 is duplicated to row(s) 12
+					Row 48 is duplicated to row(s) 37
+					Row 49 is duplicated to row(s) 20
+					Row 51 is duplicated to row(s) 47
+					Row 52 is duplicated to row(s) 42
+					Row 53 is duplicated to row(s) 50
+					Row 56 is duplicated to row(s) 16
+					Row 60 is duplicated to row(s) 8
+					Row 62 is duplicated to row(s) 14
+					Row 66 is duplicated to row(s) 29
+					Row 71 is duplicated to row(s) 21
+					Row 73 is duplicated to row(s) 58
+					Row 76 is duplicated to row(s) 40
+					Row 77 is duplicated to row(s) 44
+					Row 80 is duplicated to row(s) 17
+					Row 81 is duplicated to row(s) 13
+					Row 103 is duplicated to row(s) 102
+# Validating SDG 14
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-14' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data valid
+# Validating SDG 15
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-15' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 52 is duplicated to row(s) 43
+					Row 53 is duplicated to row(s) 42
+					Row 136 is duplicated to row(s) 48
+					Row 137 is duplicated to row(s) 49
+					Row 198 is duplicated to row(s) 58
+					Row 199 is duplicated to row(s) 59
+					Row 206 is duplicated to row(s) 96
+					Row 207 is duplicated to row(s) 97
+					Row 208 is duplicated to row(s) 101
+					Row 209 is duplicated to row(s) 100
+					Row 212 is duplicated to row(s) 103
+					Row 213 is duplicated to row(s) 102
+					Row 214 is duplicated to row(s) 106
+					Row 215 is duplicated to row(s) 107
+					Row 218 is duplicated to row(s) 108
+					Row 219 is duplicated to row(s) 109
+					Row 222 is duplicated to row(s) 112
+					Row 223 is duplicated to row(s) 113
+					Row 248 is duplicated to row(s) 38
+					Row 249 is duplicated to row(s) 39
+					Row 260 is duplicated to row(s) 124
+# Validating SDG 16
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-16' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 43 is duplicated to row(s) 37
+					Row 75 is duplicated to row(s) 49
+					Row 93 is duplicated to row(s) 73
+					Row 94 is duplicated to row(s) 74
+					Row 107 is duplicated to row(s) 52
+					Row 109 is duplicated to row(s) 89
+					Row 115 is duplicated to row(s) 92
+					Row 117 is duplicated to row(s) 40
+					Row 126 is duplicated to row(s) 30
+					Row 129 is duplicated to row(s) 54
+					Row 130 is duplicated to row(s) 103
+					Row 142 is duplicated to row(s) 84
+					Row 143 is duplicated to row(s) 123
+					Row 146 is duplicated to row(s) 6
+					Row 154 is duplicated to row(s) 24
+					Row 157 is duplicated to row(s) 124
+					Row 158 is duplicated to row(s) 152
+					Row 159 is duplicated to row(s) 151
+					Row 161 is duplicated to row(s) 86
+					Row 164 is duplicated to row(s) 31
+					Row 165 is duplicated to row(s) 32
+# Validating SDG 17
+	Data Package descriptor invalid
+		Errors:
+			Descriptor validation error: 'Goal-17' does not match '^([-a-z0-9._/])+$' at "name" in descriptor and at "properties/name/pattern" in profile
+	Data invalid
+		Errors (first 20):
+			data.csv:
+					Row 3595 has a missing value in column 15
+					Row 3596 has a missing value in column 15
+					Row 3597 has a missing value in column 15
+					Row 3598 has a missing value in column 15
+					Row 3599 has a missing value in column 15
+					Row 3600 has a missing value in column 15
+					Row 3601 has a missing value in column 15
+					Row 3602 has a missing value in column 15
+					Row 6922 has a missing value in column 15
+					Row 6937 has a missing value in column 15
+					Row 6944 has a missing value in column 15
+					Row 6953 has a missing value in column 15
+					Row 6955 has a missing value in column 15
+					Row 6957 has a missing value in column 15
+					Row 6964 has a missing value in column 15
+					Row 7078 has a missing value in column 15
+					Row 7085 has a missing value in column 15
+					Row 7171 has a missing value in column 15
+					Row 7172 has a missing value in column 15
+					Row 7301 has a missing value in column 15
+					Row 7314 has a missing value in column 15
